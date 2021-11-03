@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/FrancoisCoding/notes-app#readme",
   "dependencies": {
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
